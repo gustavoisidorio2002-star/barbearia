@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia - Sistema de Agendamento",
+  "description": "Sistema completo de agendamento para barbearia com cadastro de serviços pelo barbeiro e reserva de horários para clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
